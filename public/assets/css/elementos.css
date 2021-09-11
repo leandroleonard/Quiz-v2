@@ -1,0 +1,27 @@
+#nmetais{
+	border: 1px solid yellow;
+	color: yellow;
+	cursor: pointer;
+}
+#text-header-element-n-metal{
+	color: yellow;
+}
+#nmetais:hover{
+	border:1px solid white;
+	cursor: pointer;
+	color: white;
+}
+/*===================*/
+#metaisalcalino{
+	border: 1px solid cyan;
+	color: cyan;
+	cursor: pointer;
+}
+#text-header-element-metal-alcalino{
+	color: cyan;
+}
+#metaisalcalino:hover{
+	border:1px solid white;
+	cursor: pointer;
+	color: white;
+}
